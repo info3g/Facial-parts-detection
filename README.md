@@ -11,15 +11,15 @@ This project uses computer vision to detect lips of the person in live video fee
 ### Detecting jaws
 ![Jaws](Results/jaws.png)
 
-### Detecting left_eyebrow
+### Detecting left eyebrow
 ![Jaws](Results/left_eyebrow.png)
 
-### Detecting right_eyebrow
+### Detecting right eyebrow
 ![Jaws](Results/right_eyebrow.png)
 
-### Detecting right_eye
+### Detecting right eye
 ![Jaws](Results/right_eye.png)
 
-### Detecting left_eye
+### Detecting left eye
 ![Jaws](Results/left_eye.png)
 
