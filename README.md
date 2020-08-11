@@ -6,7 +6,7 @@ This project uses computer vision to detect lips of the person in live video fee
 
 ### Original image
 
-![Original image](Image/face2.jpg)
+![Original image](Images/face2.jpg)
 
 ### Lipstick shade
 
