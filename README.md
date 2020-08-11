@@ -4,6 +4,10 @@
 
 This project uses computer vision to detect lips of the person in live video feed or image and apply different lipstick shades on the person's lips.Along with detecting lips, the program also detects eyebrows,eyes,nose and jawline of the person.
 
+### Original image
+
+![Original image](Image/face2.jpg)
+
 ### Lipstick shade
 
 ![Jaws](Results/lipstick_shade.png)
